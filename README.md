@@ -10,7 +10,7 @@ Usage:
 
 (example- python3 caeser_cipher_decryptor.py)
 
-Enter the key ( Enter an integer )
+Enter the key 
 Enter the text ( Encrypted text or decrypted text )
 The output will show the text in encrypted or decrypted format
 

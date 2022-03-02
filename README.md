@@ -6,14 +6,12 @@ Usage:
 
 > cd Cryptography
 
-> python3 program.py  
+> chmod +x script.sh
 
-(example- python3 caeser_cipher_decryptor.py)
+> bash script.sh
 
-Enter the key 
-
-Enter the text ( Encrypted text or decrypted text )
-The output will show the text in encrypted or decrypted format
+Enter the key and the text ( Encrypted text or decrypted text )
+The output will show the text in encrypted or decrypted format.
 
 This project is under GNU license and hence we welcome the contributions to the project. Creators will not be responsible for any illegal use of this code or any part project.
 
